@@ -7,9 +7,9 @@ export default defineThemeConfig({
   id: 'accessible-astro-starter',
   logo: logoImage,
   seo: {
-    title: 'Accessible Astro Starter',
+    title: 'Fairy',
     description:
-      'An Accessible Starter Theme for Astro including several accessibility features and tools to help you build faster.',
+      'Fairy Li',
     author: 'Incluud',
     image: previewImage, // Can also be a string e.g. '/social-preview-image.png',
   },
@@ -64,10 +64,6 @@ export default defineThemeConfig({
           {
             label: 'MDX page',
             href: '/mdx-page',
-          },
-          {
-            label: '404 page',
-            href: '/404',
           },
           {
             label: 'Sitemap',
