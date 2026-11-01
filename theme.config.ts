@@ -3,7 +3,7 @@ import previewImage from '@assets/img/social-preview-image.png'
 import logoImage from '@assets/img/logo.svg'
 
 export default defineThemeConfig({
-  name: 'Accessible Astro',
+  name: 'Fairy.Li',
   id: 'accessible-astro-starter',
   logo: logoImage,
   seo: {
@@ -24,7 +24,7 @@ export default defineThemeConfig({
     items: [
       {
         type: 'link',
-        label: 'Home',
+        label: '首页',
         href: '/',
       },
       {
@@ -77,7 +77,7 @@ export default defineThemeConfig({
       },
       {
         type: 'link',
-        label: 'Contact',
+        label: '联系',
         href: '/contact',
       },
       {
